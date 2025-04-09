@@ -1,5 +1,5 @@
 # devops_riosmarko
 # devops_api1
 
-HOLA SOY KEVIN
-Pito
+HOLA SOY KEVIN y soy GAY
+
