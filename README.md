@@ -1,4 +1,3 @@
 # devops_riosmarko
 # devops_api1
-Hola
-Hecho por Saul Cardenas
+Hola, hecho por Saul Cardenas
